@@ -9,6 +9,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,tailwind,figma,bootstrap,java,spring,mysql,aws,firebase)](https://skillicons.dev)
 
- Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+| ![Izth4rDev's github stats](https://github-readme-stats.vercel.app/api?username=Izth4rDev&show_icons=true&theme=tokyonight) | ![Izth4rDev GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Izth4rDev&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izth4rDev&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Izth4rDev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
