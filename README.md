@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Izth4rDev
+- 👋 Hi, I’m @Izth4rDev and my name is Miguel Rondanelli
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Java JEE
 - 💞️ I’m looking to collaborate on web plataforms developments
