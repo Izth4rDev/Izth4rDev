@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,tailwind,figma,bootstrap,java,spring,mysql,aws,firebase)](https://skillicons.dev)
 
 <h2>Reach me</h2>
-<a href = '[https://www.linkedin.com/in/miguel-rondanelli-b63633150](https://www.linkedin.com/in/miguel-rondanelli-b63633150/)'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/miguel-rondanelli-b63633150/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 <h2>My stats</h2>
 
