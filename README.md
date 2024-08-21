@@ -3,6 +3,8 @@
   <img src="https://learn.temporal.io/assets/images/banner_java-faaaeca01dd036c24ecdf84a92ba5c4f.png" alt="Banner Image" style="width:100%;"/>
 </div>
 
+<br>
+
 - 👋 Hi, I’m @Izth4rDev and my name is Miguel Rondanelli
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Java JEE
