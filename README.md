@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0d/14/7c/0d147c411a8ce284e733b4db4294712a.jpg" alt="Banner Image" style="width:100%;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1hnx7a3NjOPaZytcWOSrRTvQ97o8sHhbWg&s)" alt="Banner Image" style="width:100%;"/>
 </div>
 
 - 👋 Hi, I’m @Izth4rDev and my name is Miguel Rondanelli
