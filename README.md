@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1hnx7a3NjOPaZytcWOSrRTvQ97o8sHhbWg&s)" alt="Banner Image" style="width:100%;"/>
+  <img src="https://learn.temporal.io/assets/images/banner_java-faaaeca01dd036c24ecdf84a92ba5c4f.png" alt="Banner Image" style="width:100%;"/>
 </div>
 
 - 👋 Hi, I’m @Izth4rDev and my name is Miguel Rondanelli
